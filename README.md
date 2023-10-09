@@ -51,7 +51,7 @@ pages 아래에 있는 LoginWithMockAPI.jsx 파일을 읽고 과제를 수행해
 
 ## 실제 서비스를 구성하는 페이지들
 
-- 로그인이 필요한 페이지
+- 로그인이 필요하지 않은 페이지
 
 ```js
 const pageWithoutLogin = () => {
@@ -59,7 +59,7 @@ const pageWithoutLogin = () => {
 };
 ```
 
-- 로그인이 필요하지 않은 페이지
+- 로그인이 필요한 페이지
 
 ```js
 const pageWithLogin = () => {
